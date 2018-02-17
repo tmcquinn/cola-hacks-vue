@@ -6,10 +6,12 @@
             <p class="small-text">This will open up a new tab.</p>
 
             <!-- make this bigger -->
-            <button id="register-btn" class="btn btn-big animated bounce">Register</button>
+            <a class=".btn-link" href="https://victoriamcquinn.typeform.com/to/lxvGCQ"><button id="register-btn" class="btn btn-big animated bounce">Register</button></a>
         </div>
    </div>
 </template>
+
+
 <script>
 export default {
   
@@ -24,9 +26,12 @@ export default {
     }
 
     #register-btn:hover {
-    -webkit-animation-duration: 2s;
-    -webkit-animation-delay: .5s;
-    -webkit-animation-iteration-count: infinite;
+        animation-duration: 2s;
+        -webkit-animation-duration: 2s;
+        animation-delay: .5s;
+        -webkit-animation-delay: .5s;
+        animation-iteration-count: infinite;
+        -webkit-animation-iteration-count: infinite;
     }
 
     .white-shadow {
@@ -44,8 +49,18 @@ export default {
     .btn-big {
         font-size: 2em;
         font-weight: bold;
+        color: #333333;
         box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
         margin-bottom: 40px;
+    }
+
+    .btn-link {
+        text-decoration: none;
+    }
+
+    .btn-link:visited {
+        text-decoration: none;
+        color: #333333;
     }
 </style>
 

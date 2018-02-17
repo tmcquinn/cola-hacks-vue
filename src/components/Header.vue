@@ -30,5 +30,6 @@
 <style scope>
   .back-col {
     background-color: #333333 !important;
+    font-weight: bold;
   }
 </style>
