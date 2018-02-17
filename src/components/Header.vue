@@ -10,9 +10,9 @@
     <b-navbar-nav class="ml-auto" right>
       <b-nav-item href="#info">info</b-nav-item>
       <b-nav-item href="#about">about us</b-nav-item>
-      <b-nav-item href="#about">register</b-nav-item>
-      <b-nav-item href="#about">faq</b-nav-item>
-      <b-nav-item href="#about">schedule</b-nav-item>
+      <b-nav-item href="#register">register</b-nav-item>
+      <b-nav-item href="#faq">faq</b-nav-item>
+      <b-nav-item href="#schedule">schedule</b-nav-item>
 
     </b-navbar-nav>
 

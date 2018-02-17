@@ -1,6 +1,6 @@
 <template>
   <!-- bootstrap tabs -->
-<div id="FAQ" class="info-wrapper">
+<div id="faq" class="info-wrapper">
         <div class="info-box">
             <h1 class="section-title">/* FAQ */</h1>
             <b-tabs class="b-tab-color">
