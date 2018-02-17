@@ -29,12 +29,13 @@ export default {
       }
 
       canvas {
-        width: 100vw;
+        width: 100%;
         margin-top: 56px;
         display: block;
         position: absolute;
         top: 0px;
         left: 0px;
+        right: 0px;
         z-index: -5;
         height: 2000px;
       }
