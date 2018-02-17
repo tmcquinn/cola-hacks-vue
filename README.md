@@ -3,6 +3,8 @@
 > A Vue.js project
 
 ## Build Setup
+`npm install -g @vue/cli`  
+
 
 ``` bash
 # install dependencies
@@ -16,4 +18,5 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+# cola-hacks-vue
 # cola-hacks-vue
