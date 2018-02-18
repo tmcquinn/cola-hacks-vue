@@ -1,3 +1,4 @@
+#!/bin/sh
 rm -rf docs
 npm run build
 
