@@ -7,21 +7,24 @@
                 <b-tab title="General" active>
                     <div class="white-bg">
                         <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// What should I bring?</h3>
                             <p class="text-desc">
-                                info info
+                                Welllll....you first and foremost. A laptop and charger (if you have one).
+                                And definitely your student ID. Other than that, food and drinks will be provided on us.
                             </p>
                         </div>
                         <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// What if I don't know how to code?</h3>
                             <p class="text-desc">
-                                info info
+                                Still come!! We want to see as much diversity in background as possible, be it math majors, business, stats, and more!
+                                Hopefully you'll learn a little bit about how to code while you're here!
                             </p>
                         </div>
                         <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// What should I make?</h3>
                             <p class="text-desc">
-                                info info
+                                Anything! As long as you believe it will have a positive impact on the community, we welcome all hacks.
+                                Although there might be specific prizes for entries that meet a certain criteria or use a certain technology.
                             </p>
                         </div>
                     </div>
@@ -29,15 +32,19 @@
                 <b-tab title="Rules" >
                     <div class="white-bg">
                         <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// Do I have to stay at ColaHacks the whole time?</h3>
                             <p class="text-desc">
-                                info info
+                                Nope! Although we do recommend sticking around for the fun workshops and awesome giveaways,
+                                you're totally free to leave at any time to go home, sleep, whatever. All we ask is that you're
+                                there for registration and final turn in.
                             </p>
                         </div>
                          <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// Can I get a headstart on my hack?</h3>
                             <p class="text-desc">
-                                info info
+                                No! All code that will be entered in the competition must have been written during ColaHacks.
+                                Of course, you can still use all the frameworks and open source packages you want. You can even
+                                come up with an idea beforehand, just make sure all code is actually written during the event.
                             </p>
                         </div>
                         <div class="info-column">
@@ -51,9 +58,10 @@
                 <b-tab title="Entry" >
                     <div class="white-bg">
                          <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// What if I don't have a team?</h3>
                             <p class="text-desc">
-                                info info
+                                Don't worry if you haven't found somebody to work with yet! We will have team-forming time
+                                during the event to help you find your dream team.
                             </p>
                         </div>
                          <div class="info-column">
@@ -77,7 +85,7 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 
@@ -137,3 +145,4 @@ export default {
         border-right: 2px dashed #333333;
     }
 </style>
+
