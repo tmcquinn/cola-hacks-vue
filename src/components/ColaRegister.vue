@@ -30,7 +30,7 @@ export default {
         -webkit-animation-duration: 2s;
         animation-delay: .5s;
         -webkit-animation-delay: .5s;
-        animation-iteration-count: infinite;
+        animation-iteration-count:  infinite;
         -webkit-animation-iteration-count: infinite;
     }
 

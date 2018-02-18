@@ -52,6 +52,15 @@ export default {
         color: #333333;
     }
 
+
+    .white-shadow {
+        text-shadow: 0.025em 0.025em #fff;
+    }
+
+    .white-overwrite {
+        border-bottom: 3px dashed #fff;
+    }
+
     .center-col {
         display:flex;
         flex-direction: column;
