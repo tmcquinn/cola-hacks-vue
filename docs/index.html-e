@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
+    <link rel="shortcut icon" href="<%= webpackConfig.output.publicPath %>favicon.ico">
+    <title>cola-hacks</title>
+    <style>
+      body {
+        font-size: 20px;
+      }
+      /* need to remove if on mobile */
+    </style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css">
+    <link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+    <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    <div id="app"></div>
+
+    <script src="/dist/build.js"></script>
+  </body>
+</html>
