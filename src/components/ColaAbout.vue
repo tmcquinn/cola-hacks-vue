@@ -4,7 +4,7 @@
 
         <div class="info-box">
             <h1 class="section-title">/* About Us */</h1>
-
+<icon name="beer"></icon>
             <h3 class="light-title">// Organizers</h3>
             <p class="text-desc">
                 Cola hacks is being organized by two of the unversity of south carolina's largest CS organizations.
@@ -39,7 +39,7 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 
