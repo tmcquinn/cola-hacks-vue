@@ -6,16 +6,15 @@
             <p class="small-text">This will open up a new tab.</p>
 
             <!-- make this bigger -->
-            <a class=".btn-link" href="https://victoriamcquinn.typeform.com/to/lxvGCQ"><button id="register-btn" class="btn btn-big animated bounce">Register</button></a>
+            <a class=".btn-link" href="https://victoriamcquinn.typeform.com/to/lxvGCQ"><button id="register-btn" class="btn btn-big">Register</button></a>
         </div>
    </div>
 </template>
 
 
 <script>
-export default {
-  
-}
+    export default {
+    }
 </script>
 
 <style lang="css">
