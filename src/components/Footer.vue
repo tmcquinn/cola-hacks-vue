@@ -13,9 +13,13 @@
             <b-link href="#faq">faq</b-link>
             <b-link href="#schedule">schedule</b-link>
           </div>
+          <a class="twitter-follow-button"
+        href="https://twitter.com/ayylilnatto"
+    data-size="large">
+    Follow @ColaHacks</a>
           <div class="author col-lg-4 col-md-4 col-sm-12"><span class="bold">
             Keep up with ColaHacks.
-            //Facebook Icon Here
+            <div class="fb-page" data-href="https://www.facebook.com/uofsccolahacks" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/uofsccolahacks" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/uofsccolahacks">ColaHacks</a></blockquote></div>
             //Twitter Icon Here
           </span></div>
     </div>
