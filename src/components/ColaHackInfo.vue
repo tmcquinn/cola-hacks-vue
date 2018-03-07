@@ -4,7 +4,7 @@
             <h1 class="section-title">/* Information */</h1>
             <h4 class="light-title">// What is a Hackathon?</h4>
             <p class="text-desc"> Major League Hacking (MLH) defines a hackathon as:
-                "A hackathon is best described as an “invention marathon”. Anyone who has an interest in technology attends a 
+                "... an “invention marathon”. Anyone who has an interest in technology attends a 
                 hackathon to learn, build & share their creations over the course of a weekend in a relaxed and welcoming atmosphere.
                 You don’t have to be a programmer and you certainly don’t have to be majoring in Computer Science."
 

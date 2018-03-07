@@ -8,7 +8,7 @@
         <ColaFAQ/>
         <ColaSchedule/>
         <Footer/>
-        <D3Merkle/>
+        <!-- <D3Merkle/> -->
     </div>
 </template>
 
@@ -21,7 +21,7 @@
     import ColaHackInfo from './components/ColaHackInfo.vue'
     import ColaSchedule from './components/ColaSchedule.vue'
     import ColaFAQ from './components/ColaFAQ.vue'
-    import D3Merkle from './components/D3Merkle.vue'
+    // import D3Merkle from './components/D3Merkle.vue'
 
 export default {
 
@@ -35,7 +35,7 @@ export default {
         ColaSchedule,
         Header,
         Footer,
-        D3Merkle
+        // D3Merkle
 
     },
     data () {
