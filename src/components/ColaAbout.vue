@@ -4,7 +4,7 @@
 
         <div class="info-box">
             <h1 class="section-title">/* About Us */</h1>
-
+<icon name="beer"></icon>
             <h3 class="light-title">// Organizers</h3>
             <p class="text-desc">
                 Colahacks is being organized by two of the Unversity of South Carolina's largest CS organizations: UofSC's Chapter of the Assocation of Computing Machinery
@@ -32,7 +32,7 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 

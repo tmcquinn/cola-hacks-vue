@@ -2,7 +2,7 @@
    <div id="register" class="info-wrapper gulla">
         <div class="info-box white-overwrite">
             <h1 class="section-title white-overwrite white-shadow">/* Register */</h1>
-            <p class="text-desc">Did we convience you? Register here!</p>
+            <p class="text-desc">Did we convince you? Register here!</p>
             <p class="small-text">This will open up a new tab.</p>
 
             <!-- make this bigger -->

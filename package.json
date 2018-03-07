@@ -17,17 +17,20 @@
     "font-awesome": "^4.7.0",
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9",
-    "vue": "^2.5.3"
+    "vue": "^2.5.3",
+    "vue-awesome": "^2.3.4"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^6.0.0",
     "babel-preset-env": "^1.6.1",
+    "callback-loader": "^0.2.4",
     "cross-env": "^5.1.1",
     "css-loader": "^0.28.7",
     "extract-text-webpack-plugin": "^3.0.2",
     "file-loader": "^1.1.5",
     "style-loader": "^0.19.0",
+    "vue-icons": "^2.0.0",
     "vue-loader": "^13.5.0",
     "vue-particles": "^1.0.9",
     "vue-template-compiler": "^2.5.3",

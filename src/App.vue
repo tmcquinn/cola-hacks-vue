@@ -11,7 +11,7 @@
     </div>
 </template>
 
-<script> 
+<script>
     import Footer from './components/Footer.vue'
     import Header from './components/Header.vue'
     import ColaSplash from './components/ColaSplash.vue'
@@ -68,7 +68,7 @@ export default {
     }
 
     .info-box {
-        width: calc(100% - 300px);  
+        width: calc(100% - 300px);
         margin-left: 30px;
         margin-right:30px;
         border-bottom: 3px dashed #333333;
@@ -77,7 +77,7 @@ export default {
 
     .section-title {
         margin-top: 10px;
-        padding-bottom: 10px; 
+        padding-bottom: 10px;
         text-shadow: .05rem .05rem #333333;
         border-bottom: 3px dashed #333333;
         font-size: 3rem;
@@ -135,7 +135,7 @@ export default {
         }
 
         .info-box {
-            width: calc(100% - 6rem);  
+            width: calc(100% - 6rem);
             margin-right: 2rem;
             margin-left: 2rem;
         }
@@ -157,7 +157,7 @@ export default {
         }
 
         .info-box {
-            width: calc(100% - 3rem);  
+            width: calc(100% - 3rem);
             margin-right: 1rem;
             margin-left: 1rem;
         }
