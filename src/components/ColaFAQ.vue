@@ -30,7 +30,7 @@
                     </div>
                 </b-tab>
                 <b-tab title="Rules" >
-                    <div class="white-bg">
+                    <div class="white-bg faq-scroll">
                         <div class="info-column">
                             <h3 class="light-title small-title">// Do I have to stay at ColaHacks the whole time?</h3>
                             <p class="text-desc">
@@ -56,7 +56,7 @@
                     </div>
                 </b-tab>
                 <b-tab title="Entry" >
-                    <div class="white-bg">
+                    <div class="white-bg faq-scroll">
                          <div class="info-column">
                             <h3 class="light-title small-title">// What if I don't have a team?</h3>
                             <p class="text-desc">
@@ -90,6 +90,21 @@ export default {
 </script>
 
 <style>
+    @media screen and (max-width: 600px) {
+        .white-bg {
+            flex-direction: column !important;
+        }
+        .info-column {
+            width: 100% !important;
+            margin: 0 !important;
+            border: none !important;
+        }
+    }
+
+    .faq-scroll {
+        overflow-y: auto;
+    }
+
     b-tabs {
     }
 
@@ -133,6 +148,8 @@ export default {
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        overflow-y: auto;
+        overflow-x:hidden;
     }
 
     .info-column {

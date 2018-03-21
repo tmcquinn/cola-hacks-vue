@@ -6,7 +6,7 @@
             <p class="small-text">This will open up a new tab.</p>
 
             <!-- make this bigger -->
-            <a class=".btn-link" href="https://victoriamcquinn.typeform.com/to/lxvGCQ"><button id="register-btn" class="btn btn-big">Register</button></a>
+            <a class=".btn-link"  target="_blank" href="https://cse.sc.edu/form/colahacks-2018"><button id="register-btn" class="btn btn-big">Register</button></a>
         </div>
    </div>
 </template>

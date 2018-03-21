@@ -16,12 +16,24 @@
 
         <a href="#info"><img id="double-down" class="animated infinite pulse" src="../assets/images/si-glyph-arrow-thick-thin-down.svg" /></a>
         <!-- down arrow -->
+        <b-modal v-model="modalShow">
+            <div class="col">
+                <p>Have you Registered Yet?!</p>
+
+                <a class=".btn-link"  target="_blank" href="https://cse.sc.edu/form/colahacks-2018"><button id="register-btn" class="btn btn-big">Register</button></a>
+                <p>(If you've already registered, thank you!!)</p>
+            </div>
+        </b-modal>
     </div>
 </template>
 
 <script>
 export default {
-  
+  data() {
+      return {
+          modalShow: true
+      }
+  }
 }
 </script>
 
