@@ -1,12 +1,15 @@
 import Vue from 'vue'
 import BootstrapVue from "bootstrap-vue"
-import App from './App.vue'
+import App from "App.vue"
+import VueBlu from "vue-blu"
+import "vue-blu/dist/css/vue-blu.min.css"
 
 import "bootstrap/dist/css/bootstrap.min.css"
 import "bootstrap-vue/dist/bootstrap-vue.css"
 
 
 // Vue.use(VueParticles)
+Vue.use(VueBlu)
 Vue.use(BootstrapVue)
 
 new Vue({
@@ -14,9 +17,9 @@ el: '#app',
 render: h => h(App),
 mounted () {
     this.$nextTick(() => {
-        this.initParticleJS()	
+        this.initParticleJS()
     })
-    
+
 },
 methods: {
     initParticleJS () {

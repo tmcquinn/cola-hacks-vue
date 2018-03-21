@@ -18,7 +18,10 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.12.9",
     "vue": "^2.5.3",
-    "vue-awesome": "^2.3.4"
+    "vue-awesome": "^2.3.4",
+    "vue-blu": "^0.1.9",
+    "vue-cute-timeline": "^1.2.4",
+    "vue-timeline": "^0.1.0"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
