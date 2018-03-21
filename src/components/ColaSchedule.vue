@@ -1,8 +1,8 @@
 <template>
 <div>
     <div id="schedule" class="info-wrapper">
-        <div class="info-box black-overwrite">
-            <h1 class="section-title white-overwrite white-shadow">/* Schedule */</h1>
+        <div class="info-box white-overwrite">
+            <h1 class="section-title white-overwrite black-shadow">/* Schedule */</h1>
             <p class="text-desc">ColaHacks will be from 9am-9pm and all participants and mentors will be served breakfast lunch and dinner (woop woop!). See a more detailed list of the judging and participation schedule below.</p>
         </div>
     </div>
@@ -58,7 +58,7 @@
 
 <style>
 #schedule {
-    background-color: #333333;
+    background-color: #AEB80F;
     color: white;
 }
 
@@ -97,3 +97,4 @@ a {
  }
 
 </style>
+
