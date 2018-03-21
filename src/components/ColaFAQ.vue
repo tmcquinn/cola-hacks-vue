@@ -90,7 +90,7 @@ export default {
 </script>
 
 <style>
-    @media screen and (max-width: 600px) {
+    @media screen and (max-width: 900px) {
         .white-bg {
             flex-direction: column !important;
         }
