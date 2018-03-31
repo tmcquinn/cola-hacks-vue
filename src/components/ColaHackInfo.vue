@@ -42,7 +42,24 @@
                 <br>
                 <br>
 
-                But just incase you need a little more incentive, here's a list of some of the prizes you can win: ;)
+                But just incase you need a little more incentive, here's a list of some of the prizes you can win:
+
+                <b>
+                First Place Grand Prize: $750
+                Second Place Grand Prize: $500
+                Third Place Grand Prize: $250
+
+
+                There will be several prizes given out for sub-categories which will be announced during the event. Some 
+                of the prizes will be:
+
+                Apple Watches
+                Leap VR
+                Google Homes
+                and more!
+
+                There will also be door prizes just for registering!
+                </b>
             </p>
         </div>
     </div>

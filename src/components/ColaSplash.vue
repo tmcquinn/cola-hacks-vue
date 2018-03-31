@@ -11,7 +11,8 @@
         <!-- <img id="cola-logo" src="../assets/images/logo.png"/> -->
         <div id="text-container">
             <h1 id="big-cola-text">COLAHACKS</h1>
-            <h3 id="big-date-time"> Saturday, April 14 9AM - 9PM</h3>
+            <h3 id="big-place">THE ZONE @ WILLIAMS-BRICE STADIUM</h3>
+            <h3 id="big-date-time"> SATURDAY, APRIL 14 9AM - 9PM</h3>
         </div>
 
         <a href="#info"><img id="double-down" class="animated infinite pulse" src="../assets/images/si-glyph-arrow-thick-thin-down.svg" /></a>
@@ -72,17 +73,27 @@ export default {
 
     #big-cola-text {
         font-size: 9rem;
-        font-weight: bold;
-        text-shadow: .5rem .5rem #333333;
+        font-weight: 950;
+        /* text-shadow: .5rem .5rem #333333; */
         text-align: right;
     }
 
     #big-date-time {
-        font-weight: bold;
+        font-weight: 950;
         width: 100%;
         text-align: center;
         font-size: 3rem;
-        text-shadow: .2rem .2rem #333333;
+        color: #21578a;
+        /* text-shadow: .2rem .2rem #333333; */
+    }
+
+    #big-place {
+        font-weight: 950;
+        width: 100%;
+        text-align: center;
+        font-size: 3rem;
+        color: #d7a900;
+        /* text-shadow: .2rem .2rem #333333; */
     }
 
     #double-down {
