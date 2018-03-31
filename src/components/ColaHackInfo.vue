@@ -46,17 +46,31 @@
 
                 <b>
                 First Place Grand Prize: $750
+                <br>
                 Second Place Grand Prize: $500
+                <br>
                 Third Place Grand Prize: $250
-
+                
+                <br>
+                <br>
 
                 There will be several prizes given out for sub-categories which will be announced during the event. Some 
                 of the prizes will be:
+                <br>
+                <br>
 
                 Apple Watches
+                                <br>
+
                 Leap VR
+                                <br>
+
                 Google Homes
+                                <br>
+
                 and more!
+                <br>
+                <br>
 
                 There will also be door prizes just for registering!
                 </b>
