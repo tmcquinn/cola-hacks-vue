@@ -23,6 +23,7 @@
                 <img class="img-spons" src="../assets/images/52inc.png" />
                 <img class="img-spons" src="https://www.sc.edu/about/offices_and_divisions/communications/images/grid_images/logos/academic_logo_square.png" />
                 <img class="sf" src="../assets/images/sf-logo.png" />
+                <img class="img-spons" src="../assets/images/Small-AGF-FCB-2Color.png" />
             </div>
             <br>
             <p class="text-desc">
@@ -60,7 +61,7 @@ export default {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: space-between;
         align-items: center;
     }
 </style>
