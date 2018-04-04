@@ -17,3 +17,4 @@ sed -i -e 's/n.p+"si-glyph-arrow-thick-thin-down.svg/"si-glyph-arrow-thick-thin-
 sed -i -e 's/n.p+"logo.svg/"logo.svg/g' docs/build.js
 sed -i -e 's/n.p+"sf-logo.png/"sf-logo.png/g' docs/build.js
 sed -i -e 's/n.p+"52inc.png/"52inc.png/g' docs/build.js
+sed -i -e 's/n.p+"Small-AGF-FCB-2Color.png/"Small-AGF-FCB-2Color.png/g' docs/build.js
