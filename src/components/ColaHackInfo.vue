@@ -59,15 +59,13 @@
                 <br>
                 <br>
 
-                Apple Watches
-                                <br>
-
-                Leap VR
+                Amazon Echos
                                 <br>
 
                 Google Homes
                                 <br>
-
+                Raspberry Pi 3 Kits
+                                <br>
                 and more!
                 <br>
                 <br>
