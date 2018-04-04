@@ -44,7 +44,7 @@
 
                 But just incase you need a little more incentive, here's a list of some of the prizes you can win:
 
-                <b>
+                <br>
                 First Place Grand Prize: $750
                 <br>
                 Second Place Grand Prize: $500

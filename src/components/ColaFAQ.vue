@@ -48,9 +48,9 @@
                             </p>
                         </div>
                         <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
+                            <h3 class="light-title small-title">// Full Rules</h3>
                             <p class="text-desc">
-                                info info
+                                <a href="./rules.html">Click here for the full rules and juding criteria</a>
                             </p>
                         </div>
                     </div>
@@ -62,18 +62,6 @@
                             <p class="text-desc">
                                 Don't worry if you haven't found somebody to work with yet! We will have team-forming time
                                 during the event to help you find your dream team.
-                            </p>
-                        </div>
-                         <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
-                            <p class="text-desc">
-                                info info
-                            </p>
-                        </div>
-                        <div class="info-column">
-                            <h3 class="light-title small-title">// Venue</h3>
-                            <p class="text-desc">
-                                info info
                             </p>
                         </div>
                     </div>
@@ -90,7 +78,7 @@ export default {
 </script>
 
 <style>
-    @media screen and (max-width: 900px) {
+    @media screen and (max-width: 1920px) {
         .white-bg {
             flex-direction: column !important;
         }
@@ -103,9 +91,6 @@ export default {
 
     .faq-scroll {
         overflow-y: auto;
-    }
-
-    b-tabs {
     }
 
     .small-title {
