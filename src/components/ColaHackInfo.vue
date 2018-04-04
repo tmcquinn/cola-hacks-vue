@@ -44,34 +44,40 @@
 
                 But just incase you need a little more incentive, here's a list of some of the prizes you can win:
 
+                <b>
                 <br>
                 First Place Grand Prize: $750
                 <br>
                 Second Place Grand Prize: $500
                 <br>
                 Third Place Grand Prize: $250
-                
+                </b>
+
                 <br>
                 <br>
 
                 There will be several prizes given out for sub-categories which will be announced during the event. Some 
                 of the prizes will be:
                 <br>
-                <br>
 
+                <b>
                 Amazon Echos
                                 <br>
-
                 Google Homes
                                 <br>
-                Raspberry Pi 3 Kits
-                                <br>
-                and more!
+                Raspberry Pi 3 Kits and more!
                 <br>
+                </b>
+
+                <br>
+                There will also be door prizes just for registering and showing up! (That's pretty sweet!)
                 <br>
 
-                There will also be door prizes just for registering!
-                </b>
+                <br>
+                <a class="mlh-link" href="./prizes.html">A full list of prizes can be found here!</a>
+                <br>
+
+                
             </p>
         </div>
     </div>

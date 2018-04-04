@@ -9,6 +9,7 @@ cp CNAME docs
 rm CNAME
 cp index.html docs
 cp rules.html docs
+cp prizes.html docs
 
 sed -i -e 's/\/dist\/main.css/main.css/g' docs/index.html
 sed -i -e 's/\/dist\/build.js/build.js/g' docs/index.html
