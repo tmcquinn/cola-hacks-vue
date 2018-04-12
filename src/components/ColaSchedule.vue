@@ -18,24 +18,28 @@
             <p class="append">We will explain the rules, answer any questions, and give an overview of the prizes, prompts, and subprizes.</p>
             <p class="append">15 minutes allotted for team formation, but all teams must be registered by 10:30</p>
         </timeline-item>
-        <timeline-title>10:30-7:30 // Code!</timeline-title>
+        <timeline-title>10:30-7:00 // Code!</timeline-title>
         <p class="timeline-item">This is your time to shine, work on your code, and attend fun (helpful) workshops. Industry mentors will be available to answer questions and provide feedback.</p>
+        <timeline-item>
+        <p>12PM // Team Registration Cutoff</p>
+        <p class="append">All teams must be registered with the organizers at this time! Even people working alone should register with organizers during the event.</p>
+        </timeline-item> 
         <timeline-item>
             <img src="https://www.shareicon.net/download/2016/09/02/824429_fork_512x512.png" class="icon-heart" slot="others">
             <p>1:00pm // Lunch</p>
         </timeline-item>
         <timeline-title>7:30pm-8:15 // Closing Ceremonies</timeline-title>
-        <p class="timeline-item">Code should be turned in on DevPost by 7:30pm to confirm your team's entry.</p>
+        <p class="timeline-item">Code should be turned in on DevPost (https://colahacks.devpost.com/) by 7:00pm to confirm your team's entry.</p>
         <timeline-item>
-            <p>7:30pm-8:15pm // Judging</p>
+            <p>7:00pm-8:30pm // Judging</p>
             <p class="append">Projects will be evaluated by judges round robin style.</p>
         </timeline-item>
         <timeline-item>
             <img src="https://www.shareicon.net/download/2016/09/02/824429_fork_512x512.png" class="icon-heart" slot="others">
-            <p>7:30pm-8:15pm // Dinner</p>
+            <p>7:00pm-9pm // Dinner</p>
         </timeline-item>
         <timeline-item>
-            <p>8:15pm-9pm // Awards</p>
+            <p>8:30pm-9pm // Awards</p>
         </timeline-item>
     </timeline>
 </div>

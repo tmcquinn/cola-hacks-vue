@@ -19,10 +19,9 @@
         <!-- down arrow -->
         <b-modal v-model="modalShow">
             <div class="col">
-                <p>Have you Registered Yet?!</p>
+                <p>Registrations are now closed. If you registered, familiarize yourself with DevPost and click "Register for this Hackathon" this is where you will be submitting your projects.</p>
 
-                <a class=".btn-link"  target="_blank" href="https://cse.sc.edu/form/colahacks-2018"><button id="register-btn" class="btn btn-big">Register</button></a>
-                <p>(If you've already registered, thank you!!)</p>
+                <a class=".btn-link"  target="_blank" href="https://colahacks.devpost.com/"><button id="register-btn" class="btn btn-big">Register on Devpost</button></a>
             </div>
         </b-modal>
     </div>

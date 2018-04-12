@@ -2,11 +2,11 @@
    <div id="register" class="info-wrapper gulla">
         <div class="info-box white-overwrite">
             <h1 class="section-title white-overwrite white-shadow">/* Register */</h1>
-            <p class="text-desc">Did we convince you? Register here!</p>
+            <p class="text-desc">Registrations are now closed. If you registered, familiarize yourself with DevPost and click "Register for this Hackathon" this is where you will be submitting your projects. </p>
             <p class="small-text">This will open up a new tab.</p>
 
             <!-- make this bigger -->
-            <a class=".btn-link"  target="_blank" href="https://cse.sc.edu/form/colahacks-2018"><button id="register-btn" class="btn btn-big">Register</button></a>
+            <a class=".btn-link"  target="_blank" href="https://colahacks.devpost.com/"><button id="register-btn" class="btn btn-big">Register on DevPost</button></a>
         </div>
    </div>
 </template>
