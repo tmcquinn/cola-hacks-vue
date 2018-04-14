@@ -28,7 +28,7 @@
             <img src="https://www.shareicon.net/download/2016/09/02/824429_fork_512x512.png" class="icon-heart" slot="others">
             <p>1:00pm // Lunch</p>
         </timeline-item>
-        <timeline-title>7:30pm-8:15 // Closing Ceremonies</timeline-title>
+        <timeline-title>7:00pm-9PM // Closing Ceremonies</timeline-title>
         <p class="timeline-item">Code should be turned in on DevPost (https://colahacks.devpost.com/) by 7:00pm to confirm your team's entry.</p>
         <timeline-item>
             <p>7:00pm-8:30pm // Judging</p>
