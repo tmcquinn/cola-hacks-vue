@@ -14,11 +14,11 @@
             <p class="append">Check in + <strong>breakfast</strong></p>
         </timeline-item>
         <timeline-item>
-            <p>9:30-10:30 // Welcome Session</p>
+            <p>9:30am-10:30am // Welcome Session</p>
             <p class="append">We will explain the rules, answer any questions, and give an overview of the prizes, prompts, and subprizes.</p>
             <p class="append">15 minutes allotted for team formation, but all teams must be registered by 10:30</p>
         </timeline-item>
-        <timeline-title>10:30-7:00 // Code!</timeline-title>
+        <timeline-title>10:30am-7:00pm // Code!</timeline-title>
         <p class="timeline-item">This is your time to shine, work on your code, and attend fun (helpful) workshops. Industry mentors will be available to answer questions and provide feedback.</p>
         <timeline-item>
         <p>12PM // Team Registration Cutoff</p>
@@ -28,7 +28,7 @@
             <img src="https://www.shareicon.net/download/2016/09/02/824429_fork_512x512.png" class="icon-heart" slot="others">
             <p>1:00pm // Lunch</p>
         </timeline-item>
-        <timeline-title>7:00pm-9PM // Closing Ceremonies</timeline-title>
+        <timeline-title>7:00pm-9pm// Closing Ceremonies</timeline-title>
         <p class="timeline-item">Code should be turned in on DevPost (https://colahacks.devpost.com/) by 7:00pm to confirm your team's entry.</p>
         <timeline-item>
             <p>7:00pm-8:30pm // Judging</p>
